@@ -1,10 +1,10 @@
-package com.preassessment.employee;
+package com.calumpang.springbootcrudh2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EmployeeApplicationTests {
+class SpringBootCrudH2ApplicationTests {
 
 	@Test
 	void contextLoads() {
